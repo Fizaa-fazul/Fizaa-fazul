@@ -41,8 +41,8 @@ Frontend developer specializing in **React and JavaScript**, focused on deliveri
 | 🧑‍💼 **Personal Portfolio** | Showcases work, skills & contact with live EmailJS integration | React, Tailwind | [Live](https://ff-fiza-portfolio.netlify.app/) |
 | 🏢 **Web Design Agency** | Multi-section agency landing page with services, portfolio & contact | React, CSS3 | [Live](https://ff-webdesign-agency.netlify.app/) |
 | 💰 **Expense Tracker** | Real-time income & expense management with balance overview | React, CSS3 | [Live](https://expense-tracker-app-ff.netlify.app/) |
-| 🧠 **Quiz App** | Multi-question quiz with score tracking and restart flow | React, CSS3 | [Repo](https://ff-quizapp.netlify.app/) |
-| 📝 **Sticky Notes App** | Create, edit & delete notes with live state management | React, CSS3 | [Repo](https://ff-team-stickynotesapp.netlify.app/) |
+| 🧠 **Quiz App** | Multi-question quiz with score tracking and restart flow | React, CSS3 | [Live](https://ff-quizapp.netlify.app/) |
+| 📝 **Sticky Notes App** | Create, edit & delete notes with live state management | React, CSS3 | [Live](https://ff-team-stickynotesapp.netlify.app/) |
 | 🎮 **Tic Tac Toe** | JS game with DOM manipulation, win detection & reset | JavaScript, CSS3 | [Live](https://ff-project-game-tic-tac-toe.netlify.app) |
 
 ---
@@ -62,6 +62,7 @@ Frontend developer specializing in **React and JavaScript**, focused on deliveri
 ![](https://img.shields.io/badge/Repos-11-teal?style=flat)
 ![](https://img.shields.io/badge/Live%20Projects-4%2B-blue?style=flat)
 ![](https://img.shields.io/badge/Stack-React%20%7C%20JS%20%7C%20CSS-orange?style=flat)  
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
 </div>
 
