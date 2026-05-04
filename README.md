@@ -59,9 +59,9 @@ Frontend developer specializing in **React and JavaScript**, focused on deliveri
 
 <div align="center">
 
-![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fizaa-fazul&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizaa-fazul&layout=compact&hide_border=true&theme=default)
+![](https://img.shields.io/badge/Repos-11-teal?style=flat)
+![](https://img.shields.io/badge/Live%20Projects-4%2B-blue?style=flat)
+![](https://img.shields.io/badge/Stack-React%20%7C%20JS%20%7C%20CSS-orange?style=flat)  
 
 </div>
 
