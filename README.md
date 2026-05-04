@@ -1,39 +1,80 @@
-# 👩‍💻 Hi, I'm Fiza Fazul  
+<div align="center">
 
-I'm a **Frontend Developer** who loves building responsive, clean, and interactive web experiences using **React, JavaScript, HTML, and CSS.**  
+# Hi, I'm Fiza Fazul 
 
-💡 I believe great web apps start with clear logic and smooth design — and that’s what I focus on in every project.  
-🚀 Currently sharpening my skills in **Advanced JavaScript** and **React** to create more dynamic and scalable web applications.  
-💼 Open to frontend roles (onsite or remote) where I can learn, contribute, and grow with a developer team.  
+**Frontend Developer** · React · JavaScript · Clean UI
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-fazul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://ff-fiza-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Fizaa-fazul)
 
-### 🧠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Framework / Library:** React.js
-- **Tools:** Git, GitHub, Netlify, VS Code
+📍 Pakistan &nbsp;|&nbsp; 💼 Open to frontend roles (remote & onsite)
 
----
-
-### 🌱 Currently Working On
-- Strengthening **JavaScript logic** and **React fundamentals**  
-- Building more **mini projects** to practice component-based design  
-- Enhancing **frontend portfolio** for upcoming job opportunities  
+</div>
 
 ---
 
-### 📫 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/fiza-fazul](#)
-- 💻 **GitHub:** [github.com/Fizaa-fazul](https://github.com/Fizaa-fazul)
-- 🌐 **Portfolio:** [ff-project-game-tic-tac-toe.netlify.app](https://ff-project-game-tic-tac-toe.netlify.app)
+## About me
 
+Frontend developer specializing in **React and JavaScript**, focused on delivering responsive, production-quality web experiences. I build client-facing applications with attention to layout precision, component structure, and smooth interaction design. Every project I ship has a live URL — because code that runs is what matters.
 
 ---
 
-### 💬 Quote I Live By
-> *"Consistency builds confidence. Confidence builds success."*
+## Tech stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-FF6600?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-⭐ **If you like my work**, feel free to star a repo or connect with me —  
-I’m always open to learning and collaborating with other developers!
+## Projects
+
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| 🧑‍💼 **Personal Portfolio** | Showcases work, skills & contact with live EmailJS integration | React, Tailwind | [Live](https://ff-fiza-portfolio.netlify.app/) |
+| 🏢 **Web Design Agency** | Multi-section agency landing page with services, portfolio & contact | React, CSS3 | [Live](https://ff-webdesign-agency.netlify.app/) |
+| 💰 **Expense Tracker** | Real-time income & expense management with balance overview | React, CSS3 | [Live](https://expense-tracker-app-ff.netlify.app/) |
+| 🧠 **Quiz App** | Multi-question quiz with score tracking and restart flow | React, CSS3 | [Repo](https://ff-quizapp.netlify.app/) |
+| 📝 **Sticky Notes App** | Create, edit & delete notes with live state management | React, CSS3 | [Repo](https://ff-team-stickynotesapp.netlify.app/) |
+| 🎮 **Tic Tac Toe** | JS game with DOM manipulation, win detection & reset | JavaScript, CSS3 | [Live](https://ff-project-game-tic-tac-toe.netlify.app) |
+
+---
+
+## Currently building
+
+- React apps with **third-party API integration** — real data, real complexity
+- Production-level **UI components** with reusable architecture
+- Expanding stack with **TypeScript** & **NextJS** for scalable frontend development
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fizaa-fazul&show_icons=true&theme=default&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizaa-fazul&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## Let's connect
+
+Available for frontend roles, freelance projects, and collaborations.
+
+**[LinkedIn](https://www.linkedin.com/in/fiza-fazul)** &nbsp;·&nbsp; **[Portfolio](https://ff-fiza-portfolio.netlify.app/)** &nbsp;·&nbsp; **[GitHub](https://github.com/Fizaa-fazul)**
+
+---
+
+<div align="center">
+<sub><i>"Consistency builds confidence. Confidence builds success."</i></sub>
+</div>
